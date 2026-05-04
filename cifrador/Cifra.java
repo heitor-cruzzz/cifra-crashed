@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Limpador {
+public class Cifra {
 
     public static String limpar(String p) {
         if (p == null) return "";
